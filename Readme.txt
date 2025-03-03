@@ -1,10 +1,8 @@
 Files:
 ==================================================================================================
 1. Readme.txt
-2. Food_Time_Data_Set_BIAnalysis.ipynb (source code) 
-3. Report of Food Time Dataset BIAnalysis.pdf (report file)
-4. Literacy_Rate_inflation_GDP_in_Bangladesh_Dataset_RAW_BIAnalysis.ipynb (source code)
-5. Report of Literacy Rate inflation GDP in Bangladesh Dataset - RAW BIAnalysis.pdf (report file)
+2. Literacy_Rate_inflation_GDP_in_Bangladesh_Dataset_RAW_BIAnalysis.ipynb (source code)
+3. Report of Literacy Rate inflation GDP in Bangladesh Dataset - RAW BIAnalysis.pdf (report file)
 ==================================================================================================
 
 Tools and Techs:
